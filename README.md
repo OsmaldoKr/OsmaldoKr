@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Kenneth%20Osorio%20Romero&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=OsmaldoKr%20|%20Diseñador%20%26%20Programador%20Web&descAlignY=55&descSize=18"/>
-</div>
-
-<div align="center">
   
   <a href="https://github.com/OsmaldoKr">
     <img src="https://github.com/OsmaldoKr.png" width="180" style="border-radius: 50%; border: 4px solid #800080; box-shadow: 0 0 20px #800080;"/>
