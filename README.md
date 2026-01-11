@@ -32,7 +32,7 @@ class Desarrollador {
 ## 💻 Stack Tecnológico
 
 Frontend
-<div align="center">
+<div align="start">
 <img class="undefined rounded-lg" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white">
 <br>
 <br>
