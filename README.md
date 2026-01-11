@@ -6,7 +6,7 @@
 
   <br><br>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+💻;Todo+nace+por+algo+✨;Cree+en+ti+🚀;Desarrollador+Web+%26+App+📱)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=600&lines=Desarrollador+Junior+💻;Todo+nace+por+algo+✨;Cree+en+tí+🚀;Desarrollador+Web+%26+App+📱)](https://git.io/typing-svg)
 
 </div>
 
