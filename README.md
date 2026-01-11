@@ -45,5 +45,3 @@ Frontend
 <br>
 <img class="undefined rounded-lg" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
 <br>
-<br>
-<img class="undefined rounded-lg" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
