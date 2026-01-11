@@ -42,7 +42,7 @@ Frontend
 <img class="undefined rounded-lg" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
 <br>
 
-Backend & Database
+## Backend & Database
 <div align="center">
 Node.js
 Python
