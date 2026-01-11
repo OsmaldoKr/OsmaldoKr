@@ -70,3 +70,7 @@ Figma
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmaldoKr&theme=radical&hide_border=true&background=0D1117&stroke=800080&ring=800080&fire=FF6B35&currStreakLabel=C9D1D9"/>
 </div>
+"Tecnología","Progreso","Estado"
+"Node.js","","🔥 En Progreso"
+"React.js","","📚 Estudiando"
+"JavaScript Avanzado","","💪 Practicando"
