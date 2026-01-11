@@ -44,19 +44,16 @@ Frontend
 
 ## Backend & Database
 <div align="start">
-Node.js
-Python
-Dart
-MySQL
-
+<img class="undefined rounded-lg" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
+  <br>
+  <img class="undefined rounded-lg" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+  <br>
+  <img class="undefined rounded-lg" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white">
+  <br>
+  <img class="undefined rounded-lg" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white">
 </div>
 
 ## Herramientas & Plataformas
-<div align="center">
-VS Code
-Visual Studio
-Git
-GitHub
-Figma
-
+<div align="start">
+<img class="undefined rounded-lg" alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
 </div>
