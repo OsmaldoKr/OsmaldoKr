@@ -21,7 +21,7 @@ class Desarrollador {
   final String rol = "Diseñador & Programador Web";
   
   List<String> especialidades = [
-    "Desarrollo Full Stack",
+    "Desarrollador Junior",
     "Diseño UI/UX",
     "Arquitectura Web"
   ];
