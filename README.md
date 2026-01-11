@@ -41,3 +41,23 @@ Frontend
 <br>
 <img class="undefined rounded-lg" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
 <br>
+
+Backend & Database
+<div align="center">
+Node.js
+Python
+Dart
+MySQL
+
+</div>
+Herramientas & Plataformas
+<div align="center">
+VS Code
+Visual Studio
+Git
+GitHub
+Figma
+
+</div>
+📈 Estadísticas de GitHub
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OsmaldoKr&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=800080&icon_color=800080&text_color=C9D1D9"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OsmaldoKr&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=800080&text_color=C9D1D9"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmaldoKr&theme=radical&hide_border=true&background=0D1117&stroke=800080&ring=800080&fire=FF6B35&currStreakLabel=C9D1D9"/> </div>
