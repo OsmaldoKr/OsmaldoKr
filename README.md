@@ -51,7 +51,7 @@ MySQL
 
 </div>
 
-Herramientas & Plataformas
+## Herramientas & Plataformas
 <div align="center">
 VS Code
 Visual Studio
