@@ -43,13 +43,14 @@ Frontend
 <br>
 
 ## Backend & Database
-<div align="center">
+<div align="start">
 Node.js
 Python
 Dart
 MySQL
 
 </div>
+
 Herramientas & Plataformas
 <div align="center">
 VS Code
