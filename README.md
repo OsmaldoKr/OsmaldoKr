@@ -60,8 +60,13 @@ Frontend
 <img class="undefined rounded-lg" alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white">
 </div>
 
+<br>
+<br>
+<br>
 
 <p class="my-2 [&amp;+p]:mt-4 [&amp;_strong:has(+br)]:inline-block [&amp;_strong:has(+br)]:pb-2"><img class="undefined rounded-lg" alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;quote=El%20c%C3%B3digo%20es%20poes%C3%ADa%20escrita%20en%20l%C3%B3gica&amp;author=OsmaldoKr"></p>
+
+<br>
 
 <h2 class="mb-2 mt-4 font-sans font-semimedium text-base first:mt-0 md:text-lg [hr+&amp;]:mt-4" id="conecta-conmigo">Conecta Conmigo</h2>
 
