@@ -11,7 +11,7 @@
 
 <br>
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
 ```dart
 class Desarrollador {
@@ -28,7 +28,7 @@ class Desarrollador {
   String mision() => "Crear soluciones digitales innovadoras";
 }
 ```
-## 💻 Stack Tecnológico
+## Stack Tecnológico
 
 Frontend
 <div align="start">
