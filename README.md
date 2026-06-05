@@ -79,14 +79,6 @@ Frontend
   </a>
   <br>
   <br>
-<a rel="nofollow noopener" class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline font-semibold" target="_blank" href="https://linkedin.com/in/tu-perfil">
-<span class="text-box-trim-both">
-  
-  <img class="undefined rounded-lg" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
-  </span>
-  </a>
-  <br>
-  <br>
 <a rel="nofollow noopener" class="reset interactable cursor-pointer decoration-1 underline-offset-1 text-super hover:underline font-semibold" target="_blank" href="https://twitter.com/tu-usuario">
   <span class="text-box-trim-both">
     <img class="undefined rounded-lg" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white">
